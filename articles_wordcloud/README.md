@@ -14,10 +14,10 @@
 <div class="images">
 <p> The outputs of the analysis are as follows:<br><br>
 <strong>Wordcloud</strong><br>
-<img src="./assets/Word_cloud.png" height="300" widht="300" align="center"></img><br><br>
+<img src="./assets/Word_cloud.png" align="center"></img><br><br>
 
 <strong>Most frequently used words: </strong><br>
-<img src="./assets/Word_frequency_plot.png" alt="center"  height="300" widht="300"></img><br><br>
+<img src="./assets/Word_frequency_plot.png" alt="center"></img><br><br>
 
 
 </p>
