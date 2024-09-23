@@ -1,5 +1,5 @@
 <html>
-<head><title></title></head>
+<head></head>
 <body>
 <h5>IBM HR Analytics dataset</h5>
 <p>The current analysis is about the IBM HR analytics of the employees
