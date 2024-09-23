@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-<h5>IBM HR Analytics dataset</h5>
+<h5>Life Expectancy</h5>
 <p>The current analysis is about the IBM HR analytics of the employees
 </p>
 <p> The analysis has been done using the following tools:<br>
