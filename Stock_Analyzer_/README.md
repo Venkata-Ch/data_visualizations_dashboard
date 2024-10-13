@@ -14,7 +14,7 @@ stock mentioned by the user.</p>
     4.Docker<br></p>
 <p>The app can be built using the docker image:</p>
 <code>docker run -p 8501:8501 stock_analyzer
-</code>
+</code><br>
 <div title="Images"><p>
 <img src="assets/Screenshot from 2024-09-17 15-59-15.png"></img>
 <b>Stock Analyzer demo is as follows:
