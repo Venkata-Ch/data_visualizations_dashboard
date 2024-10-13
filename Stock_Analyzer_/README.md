@@ -1,7 +1,6 @@
 <html>
-<head><title>
-      Stock Performance Predictor
-      </title>
+<head>
+      <h3>Stock Performance Predictor</h3>
       </head>
 <img src="logos/stock_analyzer.jpg" alt="center" height="100" width="100"></img>
 <body>
@@ -19,8 +18,13 @@ stock mentioned by the user.</p>
 <div title="Images"><p>
 <img src="assets/Screenshot from 2024-09-17 15-59-15.png"></img>
 <b>Stock Analyzer demo is as follows:
-<video src="assets/Screencast from 09-24-2024 10:33:15 AM.webm" controls autoplay="autoplay"></video>
+
+
+
 </p>
 </div>
 </body>
 </html>
+
+
+[Screencast from 09-24-2024 10_33_15 AM.webm](https://github.com/user-attachments/assets/6e64f827-2c8e-47c8-a262-94c3431b8779)
