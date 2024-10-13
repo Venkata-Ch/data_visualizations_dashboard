@@ -1,0 +1,16 @@
+Installed the required libraries:
+Currenly the applicationruns on the follwing tools:
+
+Streamlit
+Bokehjs
+alpha vantage
+scikit-learn 
+
+#As per tools though for this project
+#first after testing different mlmodels we will idnetify the potential one.
+
+#The app is a continous analyzer the analysis can be stopped by taking the user input tostop the application in the end as radio button or a selection box or logout button.
+
+
+ 
+
