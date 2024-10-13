@@ -1,0 +1,9 @@
+streamlit
+alpha_vantage
+pandas
+plotly
+docker
+statsmodels
+scikit-learn
+
+
